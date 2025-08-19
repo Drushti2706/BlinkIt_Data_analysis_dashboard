@@ -55,7 +55,3 @@ The primary goal of this project is to showcase how **business intelligence tool
 ## 📌 Conclusion
 
 This project demonstrates the power of **data visualization and BI tools** in understanding business performance. Such dashboards help businesses like Blinkit in **tracking KPIs, identifying top-performing products, and making data-driven decisions**.
-
----
-
-👉 Would you like me to also make a **short professional tagline (1–2 lines)** for the top of your README, so it instantly catches attention for recruiters?
